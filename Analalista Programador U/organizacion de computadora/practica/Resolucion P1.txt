@@ -1,0 +1,30 @@
+1-Represente los siguientes números en  el sistema BSS restringido a 8 bits. En los casos que no se pueda representar, 
+aclarar por qué.
+
+0=00000000
+1=00000001
+127=01111111
+128=10000000
+255=11111111
+256="No esta dentro del rango"
+-1="No se puede representar numeros negativos"
+-8="No se puede representar numeros negativos"
+-127="No se puede representar numeros negativos"
+-199="No se puede representar numeros negativos"
+-256="No se puede representar numeros negativos"
+137=10001001
+35=00100011
+100=01100100
+-100="No se puede representar numeros negativos"
+0,5="No puedo representar numeros decimales"
+1,25="No puedo representar numeros decimales"
+
+2-Interprete las siguientes cadenas de 8 bits en el sistema BSS
+00000000= 0
+01010101= 85
+10000000= 128
+11111110= 254
+11111111= 255
+10101010= 170
+01111111= 127
+01100110= 102

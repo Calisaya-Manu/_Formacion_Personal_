@@ -1,0 +1,21 @@
+Esta app llamada  Mis notas esta realizada con el lenguaje kotlin
+cabe aclarar que no soy diseñador por eso la interfaz no es tan llamativa
+resumen
+-es una app donde podes crear una cuenta y en esa cuenta guardar hasta
+20 notas(el limite es 20 por cuenta)
+-se puede borrar o cambier la contraseña de un usuario
+-borrar todos los usuarios guardados en el cual se borraran todas sus notas 
+
+-posee la verificacion de  usuario y contraseña
+-se puedo borrar o agregar mas notas  y tambien marcadas como realizadas
+-las notas realizadas se muestran en otra pantalla que son 10 como maximo 
+superado esa cantidad la  nota mas vieja se elimina automaticamente
+y se guarda la anterior 
+-
+caracteristicas
+-utilizacion de lista que contienen array
+-utilizacion de gson y shared preferences para guardar los datos
+de forma permanente
+-utilizacion de scrollview para ver las notas
+-utilizacion solo  de contralayauts
+-aprendi a utilizar listView
